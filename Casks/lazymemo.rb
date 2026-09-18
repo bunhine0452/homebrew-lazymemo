@@ -1,6 +1,6 @@
 cask "lazymemo" do
-  version "0.9.0"
-  sha256 "68abc14b60021072fd24d4c12fddec246fc4b704de06e7b91d5aa06a025d5c9f"
+  version "0.9.1"
+  sha256 "eebb6013a2b741a3138674fc84e84181d896b806ca0bbcc9a5a9e5c5294d1ae9"
 
   url "https://github.com/bunhine0452/lazymemo/releases/download/v#{version}/lazymemo-#{version}.zip",
       verified: "github.com/bunhine0452/lazymemo/"
